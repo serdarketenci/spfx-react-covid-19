@@ -1,0 +1,18 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+.totalResult {
+  .container {
+    max-height: 400px;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .resultRow{
+    margin-top: 10px;
+  }
+
+  .resultValue{
+    font-weight: 600;
+  }
+
+  
+}
